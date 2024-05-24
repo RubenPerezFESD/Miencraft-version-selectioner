@@ -1,0 +1,7 @@
+1) Abrir una ventana para seleccionar los mods del servidor al que me quiero unir ✔️❌
+2) Borrar la carpeta existente en C:\Users\osnir\AppData\Roaming\.minecraft\*mods* ✔️
+3) Copiar la carpeta de mods seleccionada ✔️
+4) Abrir el minecraft ✔️
+4) Que me cambie la version del minecrft, en función del archivo ".txt" que hay dentro de la carpeta copiada
+5) Que se meta en el juego
+6) FIN 😎😀👌
